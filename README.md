@@ -1,6 +1,6 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+
+
 
 ### <a href="https://669e9d080c86fb1064954aae--soft-begonia-4eba06.netlify.app/">LIVE DEMO</a>
 
@@ -16,7 +16,7 @@ Firstly, you will need to download the latest version of Node by <a href="https:
 
 Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
 
-`git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git`
+`
 
 ## 3. Install Dependancies
 
